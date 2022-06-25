@@ -733,7 +733,7 @@
 
   .u-section-4 .u-text-2 {
     width: 540px;
-    margin-top: 0;
+    margin-bottom: initial;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -768,6 +768,7 @@
 
   .u-section-4 .u-text-2 {
     width: 340px;
+    margin-bottom: 0;
   }
 
   .u-section-4 .u-repeater-1 {
@@ -834,6 +835,7 @@
 }
 
 .u-section-5 .u-text-1 {
+  font-size: 2.25rem;
   margin: 65px auto 0;
 }
 
@@ -910,12 +912,6 @@
   height: 40px;
   left: auto;
   right: -78px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-5 .u-text-1 {
-    font-size: 2.25rem;
-  }
 }
 
 @media (max-width: 767px) {
